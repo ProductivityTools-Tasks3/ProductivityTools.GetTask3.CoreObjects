@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>0.0.1</Version>
+    <Authors>Paweł Wujczyk</Authors>
+    <Company>ProductivityTools.tech</Company>
+    <Description>It is group of class used by GetTask3 application</Description>
+    <Copyright />
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
 </Project>
