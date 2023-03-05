@@ -10,6 +10,7 @@ namespace ProductivityTools.GetTask3.CoreObjects
         //pw: change it to attribute
         //List of tasks without deadline (no red color)
         TaskList =3,
+        User=4,
 
     }
 }
